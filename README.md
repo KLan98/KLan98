@@ -11,13 +11,11 @@
 
 - 📫 How to reach me **lphamkim64@gmail.com**
 
-Showcase:
-![getsitecontrol__convert-video-to-gif__free](https://github.com/user-attachments/assets/5f03a730-c059-4790-a2e8-cf80348a3fee)
+Showcase of my projects:
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+![terminal](https://github.com/user-attachments/assets/03bf57de-3e6e-42b8-b11e-f784a833001a)
+![dungeon](https://github.com/user-attachments/assets/edf2ca27-4790-4697-b56c-872519d26828)
+![glsl](https://github.com/user-attachments/assets/67afb44b-c56d-4e16-b38c-4c50cc90dd04)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
