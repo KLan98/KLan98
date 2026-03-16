@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **lphamkim64@gmail.com**
 
-Showcase of my projects:
+<h3 align="left">Showcase of my projects:</h3>
 
 ![terminal](https://github.com/user-attachments/assets/03bf57de-3e6e-42b8-b11e-f784a833001a)
 ![dungeon](https://github.com/user-attachments/assets/edf2ca27-4790-4697-b56c-872519d26828)
