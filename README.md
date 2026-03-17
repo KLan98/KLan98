@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lan Pham</h1>
 <h3 align="center">An avid game developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=klan98" alt="klan98" /></a> </p>
-
 - 🔭 I’m currently working on [Dungeon Game](https://github.com/KLan98/DungeonPlayground)
 
 - 🌱 I’m currently learning **Unity, GLSL**
