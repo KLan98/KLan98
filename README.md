@@ -14,5 +14,4 @@
 <img width="600" height="276" alt="dungeon" src="https://github.com/user-attachments/assets/1950de30-50ce-41e5-80df-52d4f58d52e5" />
 
 ![terminal](https://github.com/user-attachments/assets/03bf57de-3e6e-42b8-b11e-f784a833001a)
-![glsl](https://github.com/user-attachments/assets/67afb44b-c56d-4e16-b38c-4c50cc90dd04)
 <img width="600" height="395" alt="wave" src="https://github.com/user-attachments/assets/6b3e137a-e718-4f2f-bb63-a241e364d74e" />
